@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harsh Yadav</h1>
-<h3 align="center">🙌 Full Stack Developer || Problem Solver 🙌</h3>
+<h3 align="center">🙌 MERN Developer || Problem Solver || Java Developer || Cloud Enthusiast 🙌</h3>
 <img align="center" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harshy261&label=Profile%20views&color=0e75b6&style=flat" alt="harshy261" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=whyharshhh&label=Profile%20views&color=0e75b6&style=flat" alt="harshy261" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshy261" alt="harshy261" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whyharshhh" alt="whyharshhh" /></a> </p>
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
@@ -53,9 +53,9 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <div style="text-align: center; align: center;">
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshy261&show_icons=true&locale=en&layout=compact" alt="harshy261" /></p>
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whyharshhh&show_icons=true&locale=en&layout=compact" alt="harshy261" /></p>
 
-  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshy261&show_icons=true&locale=en" alt="harshy261" /></p>
+  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=whyharshhh&show_icons=true&locale=en" alt="whyharshhh" /></p>
 
-  <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshy261&" alt="harshy261" /></p>
+  <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whyharshhh&" alt="whyharshhh" /></p>
 </div>
